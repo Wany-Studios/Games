@@ -1,0 +1,1 @@
+if obj_item_manager.chavecreditopick = 1{instance_destroy()}

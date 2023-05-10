@@ -1,0 +1,9 @@
+image_angle = dir;
+
+
+
+
+
+
+
+

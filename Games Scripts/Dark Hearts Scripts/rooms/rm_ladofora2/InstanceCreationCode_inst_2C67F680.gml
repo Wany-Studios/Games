@@ -1,0 +1,1 @@
+text_id = "runas de purificacao"
